@@ -82,7 +82,7 @@ def main():
         if failures:
             print('Link failures:')
             for label, url, status, err in failures:
-                print(f'  {label} -> {url} (status {status}) {err or ''}')
+                print(f" {label} -> {url} (status {status}) {err or ''}")
             return 4
         else:
             print('All links OK')
