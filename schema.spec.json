@@ -22,7 +22,7 @@
               "type": "object",
               "required": ["file_name", "label", "url"],
               "properties": {
-                "file_name": {"type": "string", "pattern": "*.png$"},
+                "file_name": {"type": "string", "pattern": ".*\\.png$"},
                 "label": {"type": "string"},
                 "url": {"type": "string", "format": "uri"}
               },
