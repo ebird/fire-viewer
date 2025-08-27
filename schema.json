@@ -1,0 +1,68 @@
+{
+    "species": [
+        {
+            "zip_url": "https://ndownloader.figshare.com/files/45667350",
+            "species_code": "bkcchi",
+            "species_name": "Black-capped Chickadee",
+            "images": [
+                {
+                    "file_name": "bkcchi_burn_yr_fdis.png",
+                    "label": "Variation in time since fire",
+                    "url": "https://ndownloader.figshare.com/files/45667347"
+                },
+                {
+                    "file_name": "bkcchi_PI_occurrence.png",
+                    "label": "occurrence rPI",
+                    "url": "https://ndownloader.figshare.com/files/45667332"
+                },
+                {
+                    "file_name": "bkcchi_prop_fire_10y.png",
+                    "label": "% high severity fire",
+                    "url": "https://ndownloader.figshare.com/files/45667296"
+                },
+                {
+                    "file_name": "bkcchi_prop_fire_25y.png",
+                    "label": "% burned (last 25y)",
+                    "url": "https://ndownloader.figshare.com/files/45667341"
+                },
+                {
+                    "file_name": "bkcchi_severity_fdis.png",
+                    "label": "Variation in fire severity",
+                    "url": "https://ndownloader.figshare.com/files/45667296"
+                }
+            ]
+        },
+        {
+            "zip_url": "https://ndownloader.figshare.com/files/45667350",
+            "species_code": "amerob",
+            "species_name": "American Robin",
+            "images": [
+                {
+                    "file_name": "amerob_burn_yr_fdis.png",
+                    "label": "Variation in time since fire",
+                    "url": "https://ndownloader.figshare.com/files/45667320"
+                },
+                {
+                    "file_name": "amerob_PI_occurrence.png",
+                    "label": "occurrence rPI",
+                    "url": "https://ndownloader.figshare.com/files/45667320"
+                },
+                {
+                    "file_name": "amerob_prop_fire_10y.png",
+                    "label": "% high severity fire",
+                    "url": "https://ndownloader.figshare.com/files/45667320"
+                },
+                {
+                    "file_name": "amerob_prop_fire_25y.png",
+                    "label": "% burned (last 25y)",
+                    "url": "https://ndownloader.figshare.com/files/45667305"
+                },
+                {
+                    "file_name": "amerob_severity_fdis.png",
+                    "label": "Variation in fire severity",
+                    "url": "https://ndownloader.figshare.com/files/45667308"
+                }
+            ]
+        }
+    ]
+}
