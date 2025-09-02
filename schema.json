@@ -1,68 +1,164 @@
 {
-    "species": [
+  "species": [
+    {
+      "zip_url": "https://figshare.com/ndownloader/files/45667194",
+      "species_code": "amerob",
+      "species_name": "American Robin",
+      "images": [
         {
-            "zip_url": "https://ndownloader.figshare.com/files/45667350",
-            "species_code": "bkcchi",
-            "species_name": "Black-capped Chickadee",
-            "images": [
-                {
-                    "file_name": "bkcchi_burn_yr_fdis.png",
-                    "label": "Variation in time since fire",
-                    "url": "https://ndownloader.figshare.com/files/45667347"
-                },
-                {
-                    "file_name": "bkcchi_PI_occurrence.png",
-                    "label": "occurrence rPI",
-                    "url": "https://ndownloader.figshare.com/files/45667332"
-                },
-                {
-                    "file_name": "bkcchi_prop_fire_10y.png",
-                    "label": "% high severity fire",
-                    "url": "https://ndownloader.figshare.com/files/45667296"
-                },
-                {
-                    "file_name": "bkcchi_prop_fire_25y.png",
-                    "label": "% burned (last 25y)",
-                    "url": "https://ndownloader.figshare.com/files/45667341"
-                },
-                {
-                    "file_name": "bkcchi_severity_fdis.png",
-                    "label": "Variation in fire severity",
-                    "url": "https://ndownloader.figshare.com/files/45667296"
-                }
-            ]
+          "file_name": "amerob_burn_yr_fdis.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/45667206"
         },
         {
-            "zip_url": "https://ndownloader.figshare.com/files/45667350",
-            "species_code": "amerob",
-            "species_name": "American Robin",
-            "images": [
-                {
-                    "file_name": "amerob_burn_yr_fdis.png",
-                    "label": "Variation in time since fire",
-                    "url": "https://ndownloader.figshare.com/files/45667320"
-                },
-                {
-                    "file_name": "amerob_PI_occurrence.png",
-                    "label": "occurrence rPI",
-                    "url": "https://ndownloader.figshare.com/files/45667320"
-                },
-                {
-                    "file_name": "amerob_prop_fire_10y.png",
-                    "label": "% high severity fire",
-                    "url": "https://ndownloader.figshare.com/files/45667320"
-                },
-                {
-                    "file_name": "amerob_prop_fire_25y.png",
-                    "label": "% burned (last 25y)",
-                    "url": "https://ndownloader.figshare.com/files/45667305"
-                },
-                {
-                    "file_name": "amerob_severity_fdis.png",
-                    "label": "Variation in fire severity",
-                    "url": "https://ndownloader.figshare.com/files/45667308"
-                }
-            ]
+          "file_name": "amerob_PI_occurrence.png",
+          "label": "occurrence rPI",
+          "url": "https://figshare.com/ndownloader/files/45667215"
+        },
+        {
+          "file_name": "amerob_prop_fire_10y.png",
+          "label": "% high severity fire",
+          "url": "https://figshare.com/ndownloader/files/45667203"
+        },
+        {
+          "file_name": "amerob_prop_fire_25y.png",
+          "label": "% burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/45667197"
+        },
+        {
+          "file_name": "amerob_severity_fdis.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/45667212"
         }
-    ]
+      ]
+    },
+    {
+      "zip_url": "https://figshare.com/ndownloader/files/45667194",
+      "species_code": "attwoo1",
+      "species_name": "American Three-toed Woodpecker",
+      "images": [
+        {
+          "file_name": "attwoo1_burn_yr_fdis.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/45667206"
+        },
+        {
+          "file_name": "attwoo1_PI_occurrence.png",
+          "label": "occurrence rPI",
+          "url": "https://figshare.com/ndownloader/files/45667215"
+        },
+        {
+          "file_name": "attwoo1_prop_fire_10y.png",
+          "label": "% high severity fire",
+          "url": "https://figshare.com/ndownloader/files/45667203"
+        },
+        {
+          "file_name": "attwoo1_prop_fire_25y.png",
+          "label": "% burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/45667197"
+        },
+        {
+          "file_name": "attwoo1_severity_fdis.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/45667212"
+        }
+      ]
+    },
+    {
+      "zip_url": "https://figshare.com/ndownloader/files/45667194",
+      "species_code": "bkbwoo",
+      "species_name": "Black-backed Woodpecker",
+      "images": [
+        {
+          "file_name": "bkbwoo_burn_yr_fdis.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/45667206"
+        },
+        {
+          "file_name": "bkbwoo_PI_occurrence.png",
+          "label": "occurrence rPI",
+          "url": "https://figshare.com/ndownloader/files/45667215"
+        },
+        {
+          "file_name": "bkbwoo_prop_fire_10y.png",
+          "label": "% high severity fire",
+          "url": "https://figshare.com/ndownloader/files/45667203"
+        },
+        {
+          "file_name": "bkbwoo_prop_fire_25y.png",
+          "label": "% burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/45667197"
+        },
+        {
+          "file_name": "bkbwoo_severity_fdis.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/45667212"
+        }
+      ]
+    },
+    {
+      "zip_url": "https://figshare.com/ndownloader/files/45667194",
+      "species_code": "batpig1",
+      "species_name": "Band-tailed Pigeon",
+      "images": [
+        {
+          "file_name": "batpig1_burn_yr_fdis.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/45667206"
+        },
+        {
+          "file_name": "batpig1_PI_occurrence.png",
+          "label": "occurrence rPI",
+          "url": "https://figshare.com/ndownloader/files/45667215"
+        },
+        {
+          "file_name": "batpig1_prop_fire_10y.png",
+          "label": "% high severity fire",
+          "url": "https://figshare.com/ndownloader/files/45667203"
+        },
+        {
+          "file_name": "batpig1_prop_fire_25y.png",
+          "label": "% burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/45667197"
+        },
+        {
+          "file_name": "batpig1_severity_fdis.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/45667212"
+        }
+      ]
+    },
+    {
+      "zip_url": "https://figshare.com/ndownloader/files/45667194",
+      "species_code": "bkcchi",
+      "species_name": "Black-capped Chickadee",
+      "images": [
+        {
+          "file_name": "bkcchi_burn_yr_fdis.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/45667206"
+        },
+        {
+          "file_name": "bkcchi_PI_occurrence.png",
+          "label": "occurrence rPI",
+          "url": "https://figshare.com/ndownloader/files/45667215"
+        },
+        {
+          "file_name": "bkcchi_prop_fire_10y.png",
+          "label": "% high severity fire",
+          "url": "https://figshare.com/ndownloader/files/45667203"
+        },
+        {
+          "file_name": "bkcchi_prop_fire_25y.png",
+          "label": "% burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/45667197"
+        },
+        {
+          "file_name": "bkcchi_severity_fdis.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/45667212"
+        }
+      ]
+    }
+  ]
 }
