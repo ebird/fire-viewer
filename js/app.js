@@ -9,7 +9,8 @@
 
   let rawData = null;
   let speciesList = [];
-  let variableKeys = new Set();
+  // Map variable key (slug) -> human-readable label (long form)
+  let variableMap = new Map();
 
   function slugVariable(fileName, label){
     // Prefer pattern speciescode_xxx.png -> remove first token (species code) and extension
@@ -24,13 +25,19 @@
   function parseData(json){
     speciesList = json.species.slice().sort((a,b)=>a.species_name.localeCompare(b.species_name));
     speciesList.forEach(sp => {
-      sp.images.forEach(img => variableKeys.add(slugVariable(img.file_name, img.label)));
+      sp.images.forEach(img => {
+        const key = slugVariable(img.file_name, img.label);
+        if(!variableMap.has(key)){
+          variableMap.set(key, img.label || key);
+        }
+      });
     });
   }
 
   function populateControls(){
-    const vars = Array.from(variableKeys).sort();
-    variableSelect.innerHTML = '<option value="">Select variable...</option>' + vars.map(v=>`<option value="${v}">${v}</option>`).join('');
+    const entries = Array.from(variableMap.entries())
+      .sort((a,b)=> a[1].localeCompare(b[1])); // sort by label
+    variableSelect.innerHTML = '<option value="">Select variable...</option>' + entries.map(([key,label])=>`<option value="${key}">${label}</option>`).join('');
   }
 
   function getSpeciesByCode(code){
@@ -112,7 +119,7 @@
     } else if(state.mode === 'variable') {
       if(!state.variableKey){ statusEl.textContent = 'Select a variable to view across species.'; return; }
       statusEl.textContent = '';
-      // For each species, find image whose slugVariable matches
+      // For each species, find image whose slugVariable matches selected key
       const matches = [];
       speciesList.forEach(sp => {
         const img = sp.images.find(im => slugVariable(im.file_name, im.label) === state.variableKey);
