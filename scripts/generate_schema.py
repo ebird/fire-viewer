@@ -1,4 +1,4 @@
-""" Generate schema from a directory of results. """
+""" Generate JSON schema from a directory of results. """
 
 # Validate the format of the input data.
 # It is a directory of directories, each representing a species.
