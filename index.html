@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fire Response Maps</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header id="site-header">
+    <div class="inner">
+      <h1>Fire Response Maps</h1>
+      <h5>Stillman et al. 2025</h5>
+  <form id="controls" autocomplete="off">
+        <div class="filters">
+          <label>Species:
+            <select id="species-select"><option value="">Select species...</option></select>
+          </label>
+          <label>Variable:
+            <select id="variable-select"><option value="">Select variable...</option></select>
+          </label>
+        </div>
+      </form>
+    </div>
+  </header>
+
+  <main id="content" class="centered">
+    <div id="status" aria-live="polite"></div>
+    <div id="results" class="grid"></div>
+  </main>
+
+  <footer>
+    <p>Last updated: <span id="last-updated">—</span></p>
+    <p>Source on <a href="https://github.com/REPO_PLACEHOLDER" target="_blank" rel="noopener">GitHub</a>.</p>
+  </footer>
+
+  <script>window.APP_CONFIG = { dataUrl: 'schema.json' };</script>
+  <script src="js/app.js" defer></script>
+</body>
+</html>
