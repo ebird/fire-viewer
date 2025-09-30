@@ -12,24 +12,6 @@ Static, JSON-driven viewer for species fire response map PNGs. Deployed via GitH
 ## Data Schema
 Data lives in `schema.json` and must satisfy `schema.spec.json`.
 
-```
-{
-  "species": [
-    {
-      "species_code": "amerob",
-      "species_name": "American Robin",
-      "images": [
-        { "file_name": "amerob_prop_fire_25y.png", "label": "% burned (last 25y)", "url": "https://..." },
-        ... five total ...
-      ]
-    },
-    ...
-  ]
-}
-```
-
-Variable keys used in `?variable=` links are derived from `file_name` by removing the leading `<species_code>_` and `.png`. Example: `amerob_prop_fire_25y.png` -> `prop_fire_25y`.
-
 ## Development
 Open `index.html` directly (no build step) or serve with a simple static server.
 
@@ -46,9 +28,3 @@ python scripts/validate_schema.py --links
 
 ## Deployment
 Automatically published to the `gh-pages` branch by the workflow in `.github/workflows/deploy.yml`.
-
-## License
-Add your project license here.
-
-## Citation
-Add paper and dataset DOI references here; header text is a placeholder.
