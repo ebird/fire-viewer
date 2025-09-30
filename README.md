@@ -5,7 +5,7 @@ Static, JSON-driven viewer for species fire response map PNGs. Deployed via GitH
 ## Features
 - Two modes: view all variables for a species, or one variable across species.
 - Species and variable filters with mutually exclusive selection.
-- Direct PNG download buttons and per-species ZIP download.
+- Direct PNG download buttons.
 - Permalinks using query params (?species=CODE or ?variable=VAR_KEY).
 - JSON Schema validation + URL link checking in CI before deploy.
 
@@ -18,7 +18,6 @@ Data lives in `schema.json` and must satisfy `schema.spec.json`.
     {
       "species_code": "amerob",
       "species_name": "American Robin",
-      "zip_url": "https://.../amerob.zip",
       "images": [
         { "file_name": "amerob_prop_fire_25y.png", "label": "% burned (last 25y)", "url": "https://..." },
         ... five total ...
@@ -35,7 +34,7 @@ Variable keys used in `?variable=` links are derived from `file_name` by removin
 Open `index.html` directly (no build step) or serve with a simple static server.
 
 ## Adding / Updating Data
-1. Update `schema.json` (ensure each species has exactly five image objects and a valid `zip_url`).
+1. Update `schema.json` (ensure each species has exactly five image objects).
 2. Commit and push to `main`.
 3. GitHub Action validates JSON and links, then deploys.
 

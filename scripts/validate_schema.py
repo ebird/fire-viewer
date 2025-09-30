@@ -38,8 +38,6 @@ def do_head(url, timeout=15):
 def check_links(data, max_workers=10):
     urls = []
     for sp in data['species']:
-        if 'zip_url' in sp:
-            urls.append((sp['species_code']+':zip', sp['zip_url']))
         for img in sp['images']:
             urls.append((sp['species_code']+':'+img['file_name'], img['url']))
     results = []

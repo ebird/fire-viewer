@@ -109,11 +109,9 @@
       statusEl.textContent = '';
       const card = document.createElement('div');
       card.className = 'species-card';
-      card.innerHTML = `<div class="downloads">`+
-        `<a href="${sp.zip_url}" download>Download all (ZIP) for ${sp.species_name}</a></div>`;
       const imagesWrap = document.createElement('div');
       imagesWrap.className = 'images-grid';
-  sp.images.forEach(img => imagesWrap.appendChild(buildImageBlock(sp,img)));
+      sp.images.forEach(img => imagesWrap.appendChild(buildImageBlock(sp,img)));
       card.appendChild(imagesWrap);
       resultsEl.appendChild(card);
     } else if(state.mode === 'variable') {

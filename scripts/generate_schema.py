@@ -107,7 +107,6 @@ def main():
         entry = {
             "species_code": species,
             # "species_name": species,
-            # "zip_url": None,
             "images": []
         }
         for f in species_files:
