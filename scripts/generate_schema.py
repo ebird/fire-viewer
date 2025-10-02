@@ -12,6 +12,7 @@ from urllib.parse import unquote
 FIGSHARE_PRIVATE_LINK = "92ea9308ff2587864c49"
 SHARED_URL = "https://figshare.com/s/92ea9308ff2587864c49"
 FILE_BASE_URL = "https://figshare.com/ndownloader/files/"
+SPECIES_MAP_FILE = "species_names.json"
 
 @dataclass 
 class FileInfo:
@@ -98,6 +99,11 @@ def main():
             f.variable2 = variable2
         files.append(f)
 
+    # Load species names mapping
+    print("Loading species names mapping...")
+    with open(SPECIES_MAP_FILE) as f:
+        species_map = json.load(f)
+
     # Step 5: Build output schema
     print("Building output schema...")
     species_list = []
@@ -106,7 +112,7 @@ def main():
         species_files = [f for f in files if f.species_code == species]
         entry = {
             "species_code": species,
-            # "species_name": species,
+            "species_name": species_map.get(species, ""),
             "images": []
         }
         for f in species_files:

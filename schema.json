@@ -1,10 +1,43 @@
 {
   "source": "https://figshare.com/s/92ea9308ff2587864c49",
-  "generated_at": "2025-09-30T18:25:28Z",
+  "generated_at": "2025-10-02T10:02:42Z",
   "species": [
     {
+      "species_code": "bkbwoo",
+      "species_name": "Black-backed Woodpecker",
+      "images": [
+        {
+          "file_name": "bkbwoo_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225798?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "batpig1",
+      "species_name": "Band-tailed Pigeon",
+      "images": [
+        {
+          "file_name": "batpig1_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225807?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "bkhgro",
+      "species_name": "Black-headed Grosbeak",
+      "images": [
+        {
+          "file_name": "bkhgro_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225801?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
       "species_code": "attwoo1",
-      "species_name": "attwoo1",
+      "species_name": "American Three-toed Woodpecker",
       "images": [
         {
           "file_name": "attwoo1_Percent high severity fire.png",
@@ -15,45 +48,12 @@
     },
     {
       "species_code": "bkcchi",
-      "species_name": "bkcchi",
+      "species_name": "Black-capped Chickadee",
       "images": [
         {
           "file_name": "bkcchi_Percent high severity fire.png",
           "label": "Percent high severity fire",
           "url": "https://figshare.com/ndownloader/files/58225804?private_link=92ea9308ff2587864c49"
-        }
-      ]
-    },
-    {
-      "species_code": "bkhgro",
-      "species_name": "bkhgro",
-      "images": [
-        {
-          "file_name": "bkhgro_Percent high severity fire.png",
-          "label": "Percent high severity fire",
-          "url": "https://figshare.com/ndownloader/files/58225801?private_link=92ea9308ff2587864c49"
-        }
-      ]
-    },
-    {
-      "species_code": "batpig1",
-      "species_name": "batpig1",
-      "images": [
-        {
-          "file_name": "batpig1_Percent high severity fire.png",
-          "label": "Percent high severity fire",
-          "url": "https://figshare.com/ndownloader/files/58225807?private_link=92ea9308ff2587864c49"
-        }
-      ]
-    },
-    {
-      "species_code": "bkbwoo",
-      "species_name": "bkbwoo",
-      "images": [
-        {
-          "file_name": "bkbwoo_Percent high severity fire.png",
-          "label": "Percent high severity fire",
-          "url": "https://figshare.com/ndownloader/files/58225798?private_link=92ea9308ff2587864c49"
         }
       ]
     }
