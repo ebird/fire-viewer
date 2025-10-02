@@ -92,12 +92,49 @@
         block.classList.add('load-error');
         block.innerHTML = `<div class="image-error">Failed to load image.<br><a href="${img.url}" target="_blank" rel="noopener">Open directly</a></div>`;
       }, { once:true });
+      // Maximize on click
+      imageEl.style.cursor = 'zoom-in';
+      imageEl.addEventListener('click', () => {
+        showImageOverlay(img.url, imageEl.alt);
+      });
       const meta = document.createElement('div');
       meta.className = 'image-meta';
       meta.innerHTML = `<a href="${img.url}" download title="Download PNG">PNG</a>`;
       block.appendChild(imageEl);
       block.appendChild(meta);
       return block;
+    }
+
+    // Overlay logic for maximizing images
+    function showImageOverlay(url, alt) {
+      // Prevent multiple overlays
+      if(document.getElementById('image-overlay')) return;
+      const overlay = document.createElement('div');
+      overlay.id = 'image-overlay';
+      overlay.className = 'image-overlay';
+      overlay.innerHTML = `
+        <button class="overlay-close" title="Close">×</button>
+        <img src="${url}" alt="${alt}" class="overlay-img" />
+      `;
+      document.body.appendChild(overlay);
+      // Focus close button for accessibility
+      const closeBtn = overlay.querySelector('.overlay-close');
+      closeBtn.focus();
+      closeBtn.addEventListener('click', () => {
+        overlay.remove();
+      });
+      // Also close on overlay click (but not image click)
+      overlay.addEventListener('click', (e) => {
+        if(e.target === overlay) overlay.remove();
+      });
+      // ESC key closes overlay
+      function escListener(e) {
+        if(e.key === 'Escape') {
+          overlay.remove();
+          document.removeEventListener('keydown', escListener);
+        }
+      }
+      document.addEventListener('keydown', escListener);
     }
 
     if(state.mode === 'species'){
