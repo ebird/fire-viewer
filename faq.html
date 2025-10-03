@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fire Response Maps — FAQ</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header id="site-header">
+    <div class="inner">
+      <div class="masthead">
+        <div class="masthead-left">
+          <h1><a href="index.html">Fire Response Maps</a></h1>
+          <h5>Stillman et al. 2025</h5>
+        </div>
+        <nav class="top-links" aria-label="Primary">
+          <a href="index.html">Maps</a>
+          <a href="faq.html" aria-current="page">FAQ</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main id="content" class="centered">
+    <section class="centered faq-section" aria-labelledby="faq-title">
+      <h2 id="faq-title">FAQ: How the maps were produced</h2>
+      <h3>Abstract</h3>
+      <p>[TBA]</p>
+      <h3>Fire regime variables</h3>
+      <ol>
+        <li><strong>% burned.</strong> Measured as the percent of a 1.5-km buffer around the checklist location that has burned in the previous 25 years.</li>
+        <li><strong>% high severity fire.</strong> Measured as the percent of a 1.5-km buffer around the checklist location that has burned at high severity in the previous 10 years.</li>
+        <li><strong>Variation in fire severity.</strong> Measured as the functional dispersion of burn severity within a 1.5-km buffer around the checklist location in the last 25 years.</li>
+        <li><strong>Variation in time since fire.</strong> Measured as the functional dispersion of years since fire within a 1.5-km buffer around the checklist location in the last 25 years.</li>
+      </ol>
+      <p>Maps using fire variable 1 come from a custom ensemble modeling workflow using checklists in the Western US, filtered to forested areas. Maps using fire variables 2, 3, and 4 come from a separate ensemble modeling workflow using checklists in the Western US filtered to forest areas AND checklists which have experienced at least one fire within a 1.5 radius in the last 25 years. Thus, variables 2-4 represent the effect of recent fire conditions, given that fire has occurred in the nearby landscape.</p>
+      <h3>Types of maps</h3>
+      <p><strong>Fire regime associations.</strong> These single-panel maps show the ensemble-median association between bird abundance and one of the four fire variables at 27 x 27-km resolution. Points on the map are sized according to confidence levels, where larger points have higher confidence. Light gray areas on the map show the species range within with Western US, and the species-specific study area (intersection between species range and forest-dominated ecosystem types) is outlined with a solid black line.</p>
+      <p><strong>Relative predictor importance (rPI).</strong> These 4-panel maps show the ensemble-median importance of each fire variable for predicting species occurrence, relative to all other habitat variables in the models. Light gray areas on the map show the species range within with Western US, and the species-specific study area (intersection between species range and forest-dominated ecosystem types) is outlined with a solid black line.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Last updated: <span id="last-updated">—</span></p>
+    <p>Source on <a href="https://github.com/ebird/fire-viewer" target="_blank" rel="noopener">GitHub</a>.</p>
+  </footer>
+
+  <!-- No app.js on FAQ page (no dynamic content required) -->
+</body>
+</html>

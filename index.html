@@ -9,8 +9,16 @@
 <body>
   <header id="site-header">
     <div class="inner">
-      <h1>Fire Response Maps</h1>
-      <h5>Stillman et al. 2025</h5>
+        <div class="masthead">
+          <div class="masthead-left">
+            <h1><a href="index.html">Fire Response Maps</a></h1>
+            <h5>Stillman et al. 2025</h5>
+          </div>
+          <nav class="top-links" aria-label="Primary">
+            <a href="index.html" aria-current="page">Maps</a>
+            <a href="faq.html">FAQ</a>
+          </nav>
+        </div>
   <form id="controls" autocomplete="off">
         <div class="filters">
           <label>Species:
@@ -29,6 +37,7 @@
     <div id="status" aria-live="polite"></div>
     <div id="results" class="grid"></div>
   </main>
+
 
   <footer>
     <p>Last updated: <span id="last-updated">—</span></p>
