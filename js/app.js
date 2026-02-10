@@ -5,7 +5,6 @@
   const variableSelect = document.getElementById('variable-select');
   const resultsEl = document.getElementById('results');
   const statusEl = document.getElementById('status');
-  const lastUpdatedEl = document.getElementById('last-updated');
 
   let rawData = null;
   let speciesList = [];
@@ -178,13 +177,6 @@
   variableSelect.addEventListener('change', ()=> { if(variableSelect.value){ speciesSelect.value=''; } render(); });
   }
 
-  function setLastUpdated(){
-    try {
-      const now = new Date();
-      lastUpdatedEl.textContent = now.toISOString().split('T')[0];
-    } catch(e){ /* no-op */ }
-  }
-
   async function init(){
     statusEl.textContent = 'Loading data...';
     try {
@@ -201,7 +193,6 @@
       speciesSelect.innerHTML = speciesOptions.join('');
       applyPermalink();
       attachEvents();
-      setLastUpdated();
       render();
     } catch(err){
   console.error('Failed to load data file', dataUrl, err);
