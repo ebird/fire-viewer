@@ -1,4 +1,3 @@
-
 """ Generate JSON schema from a Figshare private link by scraping HTML and using file IDs. """
 
 from typing import Optional
@@ -8,6 +7,7 @@ import re
 import time
 from dataclasses import dataclass
 from urllib.parse import unquote
+import random
 
 FIGSHARE_PRIVATE_LINK = "92ea9308ff2587864c49"
 SHARED_URL = "https://figshare.com/s/92ea9308ff2587864c49"
@@ -33,28 +33,67 @@ def parse_article_id_and_folder_structure(html):
     folder_dict = json.loads(folder_json) if folder_json else {}
     return article_id, folder_dict
 
-def fetch_filename_for_fileid(file_id, max_retries=3):
-    url = f"https://figshare.com/ndownloader/files/{file_id}?private_link=92ea9308ff2587864c49"
+def refresh_waf_cookie(session: requests.Session, wait: float = 3.0) -> None:
+    """Hit the main site to refresh AWS WAF tokens."""
+    try:
+        session.get("https://figshare.com/", timeout=10)
+    except requests.RequestException:
+        return
+    time.sleep(wait)
+
+def fetch_filename_for_fileid(file_id, session=None, max_retries=3):
+    url = f"https://figshare.com/ndownloader/files/{file_id}?private_link={FIGSHARE_PRIVATE_LINK}"
     delay = 1
+    get = session.get if session else requests.get
     for attempt in range(max_retries):
-        with requests.get(url, stream=True, allow_redirects=True) as resp:
+        with get(url, stream=True, allow_redirects=True, timeout=20) as resp:
             if resp.status_code == 200:
                 cd = resp.headers.get("Content-Disposition", "")
                 match = re.search(r'filename=\"?([^\";]+)\"?', cd)
                 return unquote(match.group(1)) if match else None
-            elif attempt < max_retries - 1:
+            if resp.status_code == 202 and session is not None:
+                print("Encountered WAF challenge, refreshing cookie...")
+                refresh_waf_cookie(session, wait=random.uniform(2.5, 4.5))
+            if attempt < max_retries - 1:
                 print(f"Error {resp.status_code} for file_id {file_id}. Retrying in {delay} seconds...")
-                time.sleep(delay)
-                delay *= 2  # Exponential backoff else:  # Last attempt failed
-                print(f"Giving up on file_id {file_id} after {max_retries} attempts.")
-                print(resp.text)
+                time.sleep(delay + random.uniform(0.5, 1.5))
+                delay *= 2
+                continue
+            print(f"Giving up on file_id {file_id} after {max_retries} attempts.")
+            print(resp.text)
     return None
 
 def main():
     # Step 1: Get HTML
     print("Fetching shared URL...")
-    html = requests.get(SHARED_URL).text
-    
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0)"
+            " AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://figshare.com/",
+        "Connection": "keep-alive",
+    })
+    session.get("https://figshare.com/", timeout=10)
+
+    delay = 1
+    for attempt in range(3):
+        response = session.get(SHARED_URL, allow_redirects=True, timeout=20)
+        if response.status_code == 200:
+            break
+        if response.status_code == 202:
+            print(f"Received 202 Accepted (attempt {attempt + 1}). Retrying in {delay} seconds...")
+            time.sleep(delay)
+            delay *= 2
+            continue
+        raise RuntimeError(f"Failed to fetch shared URL: {response.status_code}")
+    else:
+        raise RuntimeError("Failed to fetch shared URL after retries (status remained 202).")
+    html = response.text
+
     # Step 2: Parse article id and folder structure
     print("Parsing HTML for article ID and folder structure...")
     article_id, folder_dict = parse_article_id_and_folder_structure(html)
@@ -68,13 +107,11 @@ def main():
     print("Fetching filenames for each file ID...")
     fileid_to_filename = {}
     for index, (file_id, variable) in enumerate(folder_dict.items()):
-        if index >= 5:
-            break # Limit for testing
         print(f"Getting filename for file ID {file_id} ({index + 1}/{len(folder_dict)})")
         # Figshare asks for no more than 1 per second
         # https://docs.figshare.com/#oai_pmh_rate_limit
-        time.sleep(1)
-        fname = fetch_filename_for_fileid(file_id)
+        time.sleep(1.5 + random.uniform(0.5, 1.5))
+        fname = fetch_filename_for_fileid(file_id, session=session)
         fileid_to_filename[file_id] = (fname, variable)
 
 
