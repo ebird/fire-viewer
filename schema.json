@@ -4,7 +4,7 @@
   "species": [
     {
       "species_code": "rebsap",
-      "species_name": "",
+      "species_name": "Red-breasted Sapsucker",
       "images": [
         {
           "file_name": "rebsap_Percent high severity fire.png",
@@ -76,7 +76,7 @@
     },
     {
       "species_code": "mouchi",
-      "species_name": "",
+      "species_name": "Mountain Chickadee",
       "images": [
         {
           "file_name": "mouchi_Percent high severity fire.png",
@@ -112,7 +112,7 @@
     },
     {
       "species_code": "rufgro",
-      "species_name": "",
+      "species_name": "Ruffed Grouse",
       "images": [
         {
           "file_name": "rufgro_Percent high severity fire.png",
@@ -148,7 +148,7 @@
     },
     {
       "species_code": "virwar",
-      "species_name": "",
+      "species_name": "Virginia's Warbler",
       "images": [
         {
           "file_name": "virwar_Percent high severity fire.png",
@@ -179,7 +179,7 @@
     },
     {
       "species_code": "cowscj1",
-      "species_name": "",
+      "species_name": "California Scrub-Jay",
       "images": [
         {
           "file_name": "cowscj1_Percent high severity fire.png",
@@ -215,7 +215,7 @@
     },
     {
       "species_code": "wiltur",
-      "species_name": "",
+      "species_name": "Wild Turkey",
       "images": [
         {
           "file_name": "wiltur_Percent high severity fire.png",
@@ -246,7 +246,7 @@
     },
     {
       "species_code": "westan",
-      "species_name": "",
+      "species_name": "Western Tanager",
       "images": [
         {
           "file_name": "westan_Percent high severity fire.png",
@@ -277,7 +277,7 @@
     },
     {
       "species_code": "mouqua",
-      "species_name": "",
+      "species_name": "Mountain Quail",
       "images": [
         {
           "file_name": "mouqua_Percent high severity fire.png",
@@ -313,7 +313,7 @@
     },
     {
       "species_code": "wesfly",
-      "species_name": "",
+      "species_name": "Western Flycatcher",
       "images": [
         {
           "file_name": "wesfly_Percent high severity fire.png",
@@ -344,7 +344,7 @@
     },
     {
       "species_code": "chbchi",
-      "species_name": "",
+      "species_name": "Chestnut-backed Chickadee",
       "images": [
         {
           "file_name": "chbchi_Percent high severity fire.png",
@@ -380,7 +380,7 @@
     },
     {
       "species_code": "whhwoo",
-      "species_name": "",
+      "species_name": "White-headed Woodpecker",
       "images": [
         {
           "file_name": "whhwoo_Percent high severity fire.png",
@@ -411,7 +411,7 @@
     },
     {
       "species_code": "wlswar",
-      "species_name": "",
+      "species_name": "Wilson's Warbler",
       "images": [
         {
           "file_name": "wlswar_Percent high severity fire.png",
@@ -442,7 +442,7 @@
     },
     {
       "species_code": "pygnut",
-      "species_name": "",
+      "species_name": "Pygmy Nuthatch",
       "images": [
         {
           "file_name": "pygnut_Percent high severity fire.png",
@@ -478,7 +478,7 @@
     },
     {
       "species_code": "haiwoo",
-      "species_name": "",
+      "species_name": "Hairy Woodpecker",
       "images": [
         {
           "file_name": "haiwoo_Percent high severity fire.png",
@@ -514,7 +514,7 @@
     },
     {
       "species_code": "warvir",
-      "species_name": "",
+      "species_name": "Eastern/Western Warbling Vireo",
       "images": [
         {
           "file_name": "warvir_Percent high severity fire.png",
@@ -545,7 +545,7 @@
     },
     {
       "species_code": "clanut",
-      "species_name": "",
+      "species_name": "Clark's Nutcracker",
       "images": [
         {
           "file_name": "clanut_Percent high severity fire.png",
@@ -581,7 +581,7 @@
     },
     {
       "species_code": "pinsis",
-      "species_name": "",
+      "species_name": "Pine Siskin",
       "images": [
         {
           "file_name": "pinsis_Percent high severity fire.png",
@@ -617,7 +617,7 @@
     },
     {
       "species_code": "hutvir",
-      "species_name": "",
+      "species_name": "Hutton's Vireo",
       "images": [
         {
           "file_name": "hutvir_Percent high severity fire.png",
@@ -653,7 +653,7 @@
     },
     {
       "species_code": "brthum",
-      "species_name": "",
+      "species_name": "Broad-tailed Hummingbird",
       "images": [
         {
           "file_name": "brthum_Percent high severity fire.png",
@@ -689,7 +689,7 @@
     },
     {
       "species_code": "vigswa",
-      "species_name": "",
+      "species_name": "Violet-green Swallow",
       "images": [
         {
           "file_name": "vigswa_Percent high severity fire.png",
@@ -720,7 +720,7 @@
     },
     {
       "species_code": "amerob",
-      "species_name": "",
+      "species_name": "American Robin",
       "images": [
         {
           "file_name": "amerob_Percent high severity fire.png",
@@ -756,7 +756,7 @@
     },
     {
       "species_code": "purfin",
-      "species_name": "",
+      "species_name": "Purple Finch",
       "images": [
         {
           "file_name": "purfin_Percent high severity fire.png",
@@ -792,7 +792,7 @@
     },
     {
       "species_code": "lewwoo",
-      "species_name": "",
+      "species_name": "Lewis's Woodpecker",
       "images": [
         {
           "file_name": "lewwoo_Percent high severity fire.png",
@@ -828,7 +828,7 @@
     },
     {
       "species_code": "plsvir",
-      "species_name": "",
+      "species_name": "Plumbeous Vireo",
       "images": [
         {
           "file_name": "plsvir_Percent high severity fire.png",
@@ -864,7 +864,7 @@
     },
     {
       "species_code": "shshaw",
-      "species_name": "",
+      "species_name": "Sharp-shinned Hawk",
       "images": [
         {
           "file_name": "shshaw_Percent high severity fire.png",
@@ -895,7 +895,7 @@
     },
     {
       "species_code": "cedwax",
-      "species_name": "",
+      "species_name": "Cedar Waxwing",
       "images": [
         {
           "file_name": "cedwax_Percent high severity fire.png",
@@ -931,7 +931,7 @@
     },
     {
       "species_code": "rebnut",
-      "species_name": "",
+      "species_name": "Red-breasted Nuthatch",
       "images": [
         {
           "file_name": "rebnut_Percent high severity fire.png",
@@ -967,7 +967,7 @@
     },
     {
       "species_code": "casvir",
-      "species_name": "",
+      "species_name": "Cassin's Vireo",
       "images": [
         {
           "file_name": "casvir_Percent high severity fire.png",
@@ -1003,7 +1003,7 @@
     },
     {
       "species_code": "gryfly",
-      "species_name": "",
+      "species_name": "Gray Flycatcher",
       "images": [
         {
           "file_name": "gryfly_Percent high severity fire.png",
@@ -1039,7 +1039,7 @@
     },
     {
       "species_code": "towsol",
-      "species_name": "",
+      "species_name": "Townsend's Solitaire",
       "images": [
         {
           "file_name": "towsol_Percent high severity fire.png",
@@ -1070,7 +1070,7 @@
     },
     {
       "species_code": "chispa",
-      "species_name": "",
+      "species_name": "Chipping Sparrow",
       "images": [
         {
           "file_name": "chispa_Percent high severity fire.png",
@@ -1142,7 +1142,7 @@
     },
     {
       "species_code": "blkswi",
-      "species_name": "",
+      "species_name": "Black Swift",
       "images": [
         {
           "file_name": "blkswi_Percent high severity fire.png",
@@ -1214,7 +1214,7 @@
     },
     {
       "species_code": "norfli",
-      "species_name": "",
+      "species_name": "Northern Flicker",
       "images": [
         {
           "file_name": "norfli_Percent high severity fire.png",
@@ -1250,7 +1250,7 @@
     },
     {
       "species_code": "grycat",
-      "species_name": "",
+      "species_name": "Gray Catbird",
       "images": [
         {
           "file_name": "grycat_Percent high severity fire.png",
@@ -1286,7 +1286,7 @@
     },
     {
       "species_code": "nopowl",
-      "species_name": "",
+      "species_name": "Northern Pygmy-Owl",
       "images": [
         {
           "file_name": "nopowl_Percent high severity fire.png",
@@ -1322,7 +1322,7 @@
     },
     {
       "species_code": "juntit1",
-      "species_name": "",
+      "species_name": "Juniper Titmouse",
       "images": [
         {
           "file_name": "juntit1_Percent high severity fire.png",
@@ -1358,7 +1358,7 @@
     },
     {
       "species_code": "y01309",
-      "species_name": "",
+      "species_name": "Northern/Southern House Wren",
       "images": [
         {
           "file_name": "y01309_Percent high severity fire.png",
@@ -1389,7 +1389,7 @@
     },
     {
       "species_code": "dusfly",
-      "species_name": "",
+      "species_name": "Dusky Flycatcher",
       "images": [
         {
           "file_name": "dusfly_Percent high severity fire.png",
@@ -1425,7 +1425,7 @@
     },
     {
       "species_code": "veery",
-      "species_name": "",
+      "species_name": "Veery",
       "images": [
         {
           "file_name": "veery_Percent high severity fire.png",
@@ -1456,7 +1456,7 @@
     },
     {
       "species_code": "olsfly",
-      "species_name": "",
+      "species_name": "Olive-sided Flycatcher",
       "images": [
         {
           "file_name": "olsfly_Percent high severity fire.png",
@@ -1492,7 +1492,7 @@
     },
     {
       "species_code": "gockin",
-      "species_name": "",
+      "species_name": "Golden-crowned Kinglet",
       "images": [
         {
           "file_name": "gockin_Percent high severity fire.png",
@@ -1528,7 +1528,7 @@
     },
     {
       "species_code": "rufhum",
-      "species_name": "",
+      "species_name": "Rufous Hummingbird",
       "images": [
         {
           "file_name": "rufhum_Percent high severity fire.png",
@@ -1564,7 +1564,7 @@
     },
     {
       "species_code": "lesgol",
-      "species_name": "",
+      "species_name": "Lesser Goldfinch",
       "images": [
         {
           "file_name": "lesgol_Percent high severity fire.png",
@@ -1600,7 +1600,7 @@
     },
     {
       "species_code": "spoowl",
-      "species_name": "",
+      "species_name": "Spotted Owl",
       "images": [
         {
           "file_name": "spoowl_Percent high severity fire.png",
@@ -1631,7 +1631,7 @@
     },
     {
       "species_code": "evegro",
-      "species_name": "",
+      "species_name": "Evening Grosbeak",
       "images": [
         {
           "file_name": "evegro_Percent high severity fire.png",
@@ -1667,7 +1667,7 @@
     },
     {
       "species_code": "swathr",
-      "species_name": "",
+      "species_name": "Swainson's Thrush",
       "images": [
         {
           "file_name": "swathr_Percent high severity fire.png",
@@ -1698,7 +1698,7 @@
     },
     {
       "species_code": "vauswi",
-      "species_name": "",
+      "species_name": "Vaux's Swift",
       "images": [
         {
           "file_name": "vauswi_Percent high severity fire.png",
@@ -1729,7 +1729,7 @@
     },
     {
       "species_code": "pinjay",
-      "species_name": "",
+      "species_name": "Pinyon Jay",
       "images": [
         {
           "file_name": "pinjay_Percent high severity fire.png",
@@ -1765,7 +1765,7 @@
     },
     {
       "species_code": "pingro",
-      "species_name": "",
+      "species_name": "Pine Grosbeak",
       "images": [
         {
           "file_name": "pingro_Percent high severity fire.png",
@@ -1801,7 +1801,7 @@
     },
     {
       "species_code": "gryvir",
-      "species_name": "",
+      "species_name": "Gray Vireo",
       "images": [
         {
           "file_name": "gryvir_Percent high severity fire.png",
@@ -1837,7 +1837,7 @@
     },
     {
       "species_code": "towwar",
-      "species_name": "",
+      "species_name": "Townsend's Warbler",
       "images": [
         {
           "file_name": "towwar_Percent high severity fire.png",
@@ -1868,7 +1868,7 @@
     },
     {
       "species_code": "ruckin",
-      "species_name": "",
+      "species_name": "Ruby-crowned Kinglet",
       "images": [
         {
           "file_name": "ruckin_Percent high severity fire.png",
@@ -1904,7 +1904,7 @@
     },
     {
       "species_code": "herwar",
-      "species_name": "",
+      "species_name": "Hermit Warbler",
       "images": [
         {
           "file_name": "herwar_Percent high severity fire.png",
@@ -1940,7 +1940,7 @@
     },
     {
       "species_code": "brdowl",
-      "species_name": "",
+      "species_name": "Barred Owl",
       "images": [
         {
           "file_name": "brdowl_Percent high severity fire.png",
@@ -1976,7 +1976,7 @@
     },
     {
       "species_code": "yebcha",
-      "species_name": "",
+      "species_name": "Yellow-breasted Chat",
       "images": [
         {
           "file_name": "yebcha_Percent high severity fire.png",
@@ -2007,7 +2007,7 @@
     },
     {
       "species_code": "hooori",
-      "species_name": "",
+      "species_name": "Hooded Oriole",
       "images": [
         {
           "file_name": "hooori_Percent high severity fire.png",
@@ -2043,7 +2043,7 @@
     },
     {
       "species_code": "wewpew",
-      "species_name": "",
+      "species_name": "Western Wood-Pewee",
       "images": [
         {
           "file_name": "wewpew_Percent high severity fire.png",
@@ -2074,7 +2074,7 @@
     },
     {
       "species_code": "varthr",
-      "species_name": "",
+      "species_name": "Varied Thrush",
       "images": [
         {
           "file_name": "varthr_Percent high severity fire.png",
@@ -2105,7 +2105,7 @@
     },
     {
       "species_code": "buggna",
-      "species_name": "",
+      "species_name": "Blue-gray Gnatcatcher",
       "images": [
         {
           "file_name": "buggna_Percent high severity fire.png",
@@ -2141,7 +2141,7 @@
     },
     {
       "species_code": "dusgro",
-      "species_name": "",
+      "species_name": "Dusky Grouse",
       "images": [
         {
           "file_name": "dusgro_Percent high severity fire.png",
@@ -2177,7 +2177,7 @@
     },
     {
       "species_code": "gryjay",
-      "species_name": "",
+      "species_name": "Canada Jay",
       "images": [
         {
           "file_name": "gryjay_Percent high severity fire.png",
@@ -2213,7 +2213,7 @@
     },
     {
       "species_code": "wesowl1",
-      "species_name": "",
+      "species_name": "Western Screech-Owl",
       "images": [
         {
           "file_name": "wesowl1_Percent high severity fire.png",
@@ -2244,7 +2244,7 @@
     },
     {
       "species_code": "bulori",
-      "species_name": "",
+      "species_name": "Bullock's Oriole",
       "images": [
         {
           "file_name": "bulori_Percent high severity fire.png",
@@ -2280,7 +2280,7 @@
     },
     {
       "species_code": "hamfly",
-      "species_name": "",
+      "species_name": "Hammond's Flycatcher",
       "images": [
         {
           "file_name": "hamfly_Percent high severity fire.png",
@@ -2316,7 +2316,7 @@
     },
     {
       "species_code": "yelwar",
-      "species_name": "",
+      "species_name": "Northern/Mangrove Yellow Warbler",
       "images": [
         {
           "file_name": "yelwar_Percent high severity fire.png",
@@ -2347,7 +2347,7 @@
     },
     {
       "species_code": "yebmag",
-      "species_name": "",
+      "species_name": "Yellow-billed Magpie",
       "images": [
         {
           "file_name": "yebmag_Percent high severity fire.png",
@@ -2378,7 +2378,7 @@
     },
     {
       "species_code": "btywar",
-      "species_name": "",
+      "species_name": "Black-throated Gray Warbler",
       "images": [
         {
           "file_name": "btywar_Percent high severity fire.png",
@@ -2414,7 +2414,7 @@
     },
     {
       "species_code": "whbnut",
-      "species_name": "",
+      "species_name": "White-breasted Nuthatch",
       "images": [
         {
           "file_name": "whbnut_Percent high severity fire.png",
@@ -2445,7 +2445,7 @@
     },
     {
       "species_code": "leafly",
-      "species_name": "",
+      "species_name": "Least Flycatcher",
       "images": [
         {
           "file_name": "leafly_Percent high severity fire.png",
@@ -2481,7 +2481,7 @@
     },
     {
       "species_code": "bkchum",
-      "species_name": "",
+      "species_name": "Black-chinned Hummingbird",
       "images": [
         {
           "file_name": "bkchum_Percent high severity fire.png",
@@ -2517,7 +2517,7 @@
     },
     {
       "species_code": "wilsap",
-      "species_name": "",
+      "species_name": "Williamson's Sapsucker",
       "images": [
         {
           "file_name": "wilsap_Percent high severity fire.png",
@@ -2548,7 +2548,7 @@
     },
     {
       "species_code": "rensap",
-      "species_name": "",
+      "species_name": "Red-naped Sapsucker",
       "images": [
         {
           "file_name": "rensap_Percent high severity fire.png",
@@ -2584,7 +2584,7 @@
     },
     {
       "species_code": "redcro",
-      "species_name": "",
+      "species_name": "Red Crossbill",
       "images": [
         {
           "file_name": "redcro_Percent high severity fire.png",
@@ -2620,7 +2620,7 @@
     },
     {
       "species_code": "foxspa",
-      "species_name": "",
+      "species_name": "Fox Sparrow",
       "images": [
         {
           "file_name": "foxspa_Percent high severity fire.png",
@@ -2656,7 +2656,7 @@
     },
     {
       "species_code": "coohaw",
-      "species_name": "",
+      "species_name": "Cooper's Hawk",
       "images": [
         {
           "file_name": "coohaw_Percent high severity fire.png",
@@ -2692,7 +2692,7 @@
     },
     {
       "species_code": "lazbun",
-      "species_name": "",
+      "species_name": "Lazuli Bunting",
       "images": [
         {
           "file_name": "lazbun_Percent high severity fire.png",
@@ -2728,7 +2728,7 @@
     },
     {
       "species_code": "reshaw",
-      "species_name": "",
+      "species_name": "Red-shouldered Hawk",
       "images": [
         {
           "file_name": "reshaw_Percent high severity fire.png",
@@ -2764,7 +2764,7 @@
     },
     {
       "species_code": "nutwoo",
-      "species_name": "",
+      "species_name": "Nuttall's Woodpecker",
       "images": [
         {
           "file_name": "nutwoo_Percent high severity fire.png",
@@ -2800,7 +2800,7 @@
     },
     {
       "species_code": "daejun",
-      "species_name": "",
+      "species_name": "Dark-eyed Junco",
       "images": [
         {
           "file_name": "daejun_Percent high severity fire.png",
@@ -2836,7 +2836,7 @@
     },
     {
       "species_code": "stejay",
-      "species_name": "",
+      "species_name": "Steller's Jay",
       "images": [
         {
           "file_name": "stejay_Percent high severity fire.png",
@@ -2867,7 +2867,7 @@
     },
     {
       "species_code": "orcwar",
-      "species_name": "",
+      "species_name": "Orange-crowned Warbler",
       "images": [
         {
           "file_name": "orcwar_Percent high severity fire.png",
@@ -2903,7 +2903,7 @@
     },
     {
       "species_code": "yerwar",
-      "species_name": "",
+      "species_name": "Yellow-rumped Warbler",
       "images": [
         {
           "file_name": "yerwar_Percent high severity fire.png",
@@ -2934,7 +2934,7 @@
     },
     {
       "species_code": "soogro1",
-      "species_name": "",
+      "species_name": "Sooty Grouse",
       "images": [
         {
           "file_name": "soogro1_Percent high severity fire.png",
@@ -2965,7 +2965,7 @@
     },
     {
       "species_code": "casfin",
-      "species_name": "",
+      "species_name": "Cassin's Finch",
       "images": [
         {
           "file_name": "casfin_Percent high severity fire.png",
@@ -3001,7 +3001,7 @@
     },
     {
       "species_code": "pilwoo",
-      "species_name": "",
+      "species_name": "Pileated Woodpecker",
       "images": [
         {
           "file_name": "pilwoo_Percent high severity fire.png",
@@ -3037,7 +3037,7 @@
     },
     {
       "species_code": "wesblu",
-      "species_name": "",
+      "species_name": "Western Bluebird",
       "images": [
         {
           "file_name": "wesblu_Percent high severity fire.png",
@@ -3068,7 +3068,7 @@
     },
     {
       "species_code": "pacwre1",
-      "species_name": "",
+      "species_name": "Pacific Wren",
       "images": [
         {
           "file_name": "pacwre1_Percent high severity fire.png",
@@ -3104,7 +3104,7 @@
     },
     {
       "species_code": "calhum",
-      "species_name": "",
+      "species_name": "Calliope Hummingbird",
       "images": [
         {
           "file_name": "calhum_Percent high severity fire.png",
@@ -3140,7 +3140,7 @@
     },
     {
       "species_code": "wooscj2",
-      "species_name": "",
+      "species_name": "Woodhouse's Scrub-Jay",
       "images": [
         {
           "file_name": "wooscj2_Percent high severity fire.png",
@@ -3171,7 +3171,7 @@
     },
     {
       "species_code": "herthr",
-      "species_name": "",
+      "species_name": "Hermit Thrush",
       "images": [
         {
           "file_name": "herthr_Percent high severity fire.png",
@@ -3279,7 +3279,7 @@
     },
     {
       "species_code": "flaowl",
-      "species_name": "",
+      "species_name": "Flammulated Owl",
       "images": [
         {
           "file_name": "flaowl_Percent high severity fire.png",
@@ -3315,7 +3315,7 @@
     },
     {
       "species_code": "norgos",
-      "species_name": "",
+      "species_name": "American Goshawk",
       "images": [
         {
           "file_name": "norgos_Percent high severity fire.png",
@@ -3351,7 +3351,7 @@
     },
     {
       "species_code": "brncre",
-      "species_name": "",
+      "species_name": "Brown Creeper",
       "images": [
         {
           "file_name": "brncre_Percent high severity fire.png",
@@ -3387,7 +3387,7 @@
     },
     {
       "species_code": "bushti",
-      "species_name": "",
+      "species_name": "Bushtit",
       "images": [
         {
           "file_name": "bushti_Percent high severity fire.png",
@@ -3423,7 +3423,7 @@
     },
     {
       "species_code": "macwar",
-      "species_name": "",
+      "species_name": "MacGillivray's Warbler",
       "images": [
         {
           "file_name": "macwar_Percent high severity fire.png",
@@ -3459,7 +3459,7 @@
     },
     {
       "species_code": "dowwoo",
-      "species_name": "",
+      "species_name": "Downy Woodpecker",
       "images": [
         {
           "file_name": "dowwoo_Percent high severity fire.png",
@@ -3495,7 +3495,7 @@
     },
     {
       "species_code": "oaktit",
-      "species_name": "",
+      "species_name": "Oak Titmouse",
       "images": [
         {
           "file_name": "oaktit_Percent high severity fire.png",
@@ -3531,7 +3531,7 @@
     },
     {
       "species_code": "naswar",
-      "species_name": "",
+      "species_name": "Nashville Warbler",
       "images": [
         {
           "file_name": "naswar_Percent high severity fire.png",
@@ -3567,7 +3567,7 @@
     },
     {
       "species_code": "spotow",
-      "species_name": "",
+      "species_name": "Spotted Towhee",
       "images": [
         {
           "file_name": "spotow_Percent high severity fire.png",
