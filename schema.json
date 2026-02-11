@@ -1,37 +1,40 @@
 {
   "source": "https://figshare.com/s/92ea9308ff2587864c49",
-  "generated_at": "2025-10-02T10:02:42Z",
+  "generated_at": "2026-02-11T20:17:02Z",
   "species": [
     {
-      "species_code": "bkbwoo",
-      "species_name": "Black-backed Woodpecker",
+      "species_code": "rebsap",
+      "species_name": "",
       "images": [
         {
-          "file_name": "bkbwoo_Percent high severity fire.png",
+          "file_name": "rebsap_Percent high severity fire.png",
           "label": "Percent high severity fire",
-          "url": "https://figshare.com/ndownloader/files/58225798?private_link=92ea9308ff2587864c49"
-        }
-      ]
-    },
-    {
-      "species_code": "batpig1",
-      "species_name": "Band-tailed Pigeon",
-      "images": [
+          "url": "https://figshare.com/ndownloader/files/58225999?private_link=92ea9308ff2587864c49"
+        },
         {
-          "file_name": "batpig1_Percent high severity fire.png",
-          "label": "Percent high severity fire",
-          "url": "https://figshare.com/ndownloader/files/58225807?private_link=92ea9308ff2587864c49"
-        }
-      ]
-    },
-    {
-      "species_code": "bkhgro",
-      "species_name": "Black-headed Grosbeak",
-      "images": [
+          "file_name": "rebsap_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226644?private_link=92ea9308ff2587864c49"
+        },
         {
-          "file_name": "bkhgro_Percent high severity fire.png",
-          "label": "Percent high severity fire",
-          "url": "https://figshare.com/ndownloader/files/58225801?private_link=92ea9308ff2587864c49"
+          "file_name": "rebsap_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226962?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rebsap_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369273?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rebsap_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647739?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rebsap_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647742?private_link=92ea9308ff2587864c49"
         }
       ]
     },
@@ -43,6 +46,1061 @@
           "file_name": "attwoo1_Percent high severity fire.png",
           "label": "Percent high severity fire",
           "url": "https://figshare.com/ndownloader/files/58225810?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "attwoo1_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226440?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "attwoo1_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226761?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "attwoo1_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369075?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "attwoo1_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647340?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "attwoo1_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647343?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "mouchi",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "mouchi_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225942?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouchi_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226587?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouchi_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226902?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouchi_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369216?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouchi_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647622?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouchi_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647625?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "rufgro",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "rufgro_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226014?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufgro_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226659?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufgro_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226980?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufgro_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369288?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufgro_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647769?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufgro_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647772?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "virwar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "virwar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226056?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "virwar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226701?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "virwar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369330?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "virwar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647853?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "virwar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647856?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "cowscj1",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "cowscj1_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225867?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cowscj1_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226512?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cowscj1_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226830?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cowscj1_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369138?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cowscj1_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647472?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cowscj1_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647478?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "wiltur",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "wiltur_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226089?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wiltur_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226731?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wiltur_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369360?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wiltur_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647913?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wiltur_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647916?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "westan",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "westan_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226071?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "westan_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226716?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "westan_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369345?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "westan_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647883?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "westan_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647886?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "mouqua",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "mouqua_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225945?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouqua_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226590?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouqua_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226908?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouqua_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369219?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouqua_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647628?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "mouqua_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647634?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "wesfly",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "wesfly_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226065?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesfly_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226710?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesfly_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369339?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesfly_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647871?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesfly_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647877?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "chbchi",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "chbchi_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225855?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chbchi_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226500?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chbchi_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226818?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chbchi_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369129?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chbchi_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647448?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chbchi_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647451?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "whhwoo",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "whhwoo_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226080?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "whhwoo_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226725?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "whhwoo_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369354?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "whhwoo_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647901?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "whhwoo_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647904?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "wlswar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "wlswar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226086?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wlswar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226734?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wlswar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369363?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wlswar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647919?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wlswar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647922?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "pygnut",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "pygnut_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225993?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pygnut_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226638?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pygnut_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226956?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pygnut_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369267?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pygnut_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647727?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pygnut_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647730?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "haiwoo",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "haiwoo_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225903?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "haiwoo_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226551?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "haiwoo_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226869?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "haiwoo_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369180?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "haiwoo_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647550?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "haiwoo_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647553?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "warvir",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "warvir_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226062?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "warvir_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226704?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "warvir_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369333?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "warvir_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647859?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "warvir_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647862?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "clanut",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "clanut_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225861?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "clanut_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226506?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "clanut_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226824?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "clanut_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369135?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "clanut_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647460?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "clanut_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647463?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "pinsis",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "pinsis_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225984?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinsis_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226629?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinsis_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226944?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinsis_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369258?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinsis_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647709?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinsis_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647712?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "hutvir",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "hutvir_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225918?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hutvir_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226566?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hutvir_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226884?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hutvir_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369195?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hutvir_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647580?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hutvir_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647583?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "brthum",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "brthum_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225828?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brthum_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226467?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brthum_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226788?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brthum_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369099?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brthum_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647394?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brthum_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647397?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "vigswa",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "vigswa_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226053?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "vigswa_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226698?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "vigswa_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369327?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "vigswa_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647847?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "vigswa_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647850?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "amerob",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "amerob_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225813?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "amerob_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226437?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "amerob_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226758?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "amerob_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369072?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "amerob_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647334?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "amerob_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647337?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "purfin",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "purfin_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225990?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "purfin_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226635?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "purfin_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226965?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "purfin_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369264?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "purfin_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647721?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "purfin_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647724?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "lewwoo",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "lewwoo_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225936?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lewwoo_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226581?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lewwoo_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226899?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lewwoo_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369210?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lewwoo_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647610?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lewwoo_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647613?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "plsvir",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "plsvir_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225987?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "plsvir_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226632?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "plsvir_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226950?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "plsvir_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369261?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "plsvir_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647715?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "plsvir_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647718?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "shshaw",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "shshaw_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226017?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "shshaw_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226665?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "shshaw_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369294?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "shshaw_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647781?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "shshaw_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647784?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "cedwax",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "cedwax_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225852?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cedwax_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226497?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cedwax_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226815?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cedwax_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369126?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cedwax_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647442?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "cedwax_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647445?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "rebnut",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "rebnut_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225996?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rebnut_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226641?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rebnut_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226959?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rebnut_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369270?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rebnut_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647733?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rebnut_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647736?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "casvir",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "casvir_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225849?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casvir_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226494?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casvir_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226812?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casvir_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369123?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casvir_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647436?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casvir_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647439?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "gryfly",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "gryfly_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225894?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryfly_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226542?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryfly_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226860?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryfly_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369168?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryfly_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647532?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryfly_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647535?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "towsol",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "towsol_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226038?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "towsol_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226683?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "towsol_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369312?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "towsol_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647814?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "towsol_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647820?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "chispa",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "chispa_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225858?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chispa_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226503?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chispa_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226821?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chispa_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369132?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chispa_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647454?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "chispa_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647457?private_link=92ea9308ff2587864c49"
         }
       ]
     },
@@ -54,6 +1112,2487 @@
           "file_name": "bkcchi_Percent high severity fire.png",
           "label": "Percent high severity fire",
           "url": "https://figshare.com/ndownloader/files/58225804?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkcchi_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226449?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkcchi_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226770?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkcchi_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369087?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkcchi_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647358?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkcchi_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647361?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "blkswi",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "blkswi_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225819?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "blkswi_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226458?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "blkswi_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226779?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "blkswi_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369093?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "blkswi_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647376?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "blkswi_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647379?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "batpig1",
+      "species_name": "Band-tailed Pigeon",
+      "images": [
+        {
+          "file_name": "batpig1_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225807?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "batpig1_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226443?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "batpig1_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226764?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "batpig1_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369078?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "batpig1_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647346?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "batpig1_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647349?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "norfli",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "norfli_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225954?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norfli_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226599?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norfli_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226917?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norfli_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369228?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norfli_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647649?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norfli_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647652?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "grycat",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "grycat_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225897?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "grycat_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226539?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "grycat_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226857?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "grycat_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369171?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "grycat_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647526?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "grycat_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647529?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "nopowl",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "nopowl_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225951?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nopowl_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226596?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nopowl_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226914?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nopowl_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369225?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nopowl_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647643?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nopowl_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647646?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "juntit1",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "juntit1_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225921?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "juntit1_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226569?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "juntit1_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226887?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "juntit1_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369198?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "juntit1_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647586?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "juntit1_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647589?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "y01309",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "y01309_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226095?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "y01309_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226740?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "y01309_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369369?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "y01309_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647931?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "y01309_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647934?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "dusfly",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "dusfly_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225882?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusfly_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226521?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusfly_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226845?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusfly_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369156?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusfly_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647490?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusfly_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647493?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "veery",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "veery_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226050?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "veery_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226695?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "veery_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369324?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "veery_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647841?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "veery_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647844?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "olsfly",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "olsfly_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225966?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "olsfly_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226611?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "olsfly_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226929?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "olsfly_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369240?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "olsfly_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647673?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "olsfly_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647676?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "gockin",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "gockin_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225891?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gockin_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226536?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gockin_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226854?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gockin_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369165?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gockin_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647520?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gockin_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647523?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "rufhum",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "rufhum_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226020?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufhum_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226662?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufhum_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226986?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufhum_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369291?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufhum_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647775?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rufhum_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647778?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "lesgol",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "lesgol_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225930?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lesgol_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226578?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lesgol_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226896?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lesgol_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369207?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lesgol_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647604?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lesgol_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647607?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "spoowl",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "spoowl_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226026?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "spoowl_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226671?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "spoowl_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369300?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "spoowl_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647790?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "spoowl_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647796?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "evegro",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "evegro_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225879?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "evegro_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226527?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "evegro_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226839?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "evegro_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369150?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "evegro_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647502?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "evegro_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647505?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "swathr",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "swathr_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226032?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "swathr_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226680?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "swathr_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369309?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "swathr_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647811?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "swathr_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647817?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "vauswi",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "vauswi_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226047?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "vauswi_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226692?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "vauswi_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369321?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "vauswi_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647835?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "vauswi_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647838?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "pinjay",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "pinjay_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225981?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinjay_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226626?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinjay_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226953?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinjay_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369255?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinjay_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647703?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pinjay_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647706?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "pingro",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "pingro_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225975?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pingro_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226623?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pingro_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226947?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pingro_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369252?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pingro_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647697?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pingro_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647700?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "gryvir",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "gryvir_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225906?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryvir_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226548?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryvir_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226866?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryvir_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369177?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryvir_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647544?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryvir_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647547?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "towwar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "towwar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226041?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "towwar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226686?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "towwar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369315?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "towwar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647823?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "towwar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647826?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "ruckin",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "ruckin_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226008?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "ruckin_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226656?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "ruckin_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226977?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "ruckin_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369285?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "ruckin_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647763?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "ruckin_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647766?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "herwar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "herwar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225915?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herwar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226560?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herwar_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226878?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herwar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369186?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herwar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647568?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herwar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647571?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "brdowl",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "brdowl_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225822?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brdowl_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226461?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brdowl_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226782?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brdowl_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369096?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brdowl_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647382?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brdowl_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647385?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "yebcha",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "yebcha_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226101?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yebcha_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226743?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yebcha_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369372?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yebcha_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647937?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yebcha_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647943?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "hooori",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "hooori_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225912?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hooori_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226563?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hooori_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226881?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hooori_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369192?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hooori_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647574?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hooori_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647577?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "wewpew",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "wewpew_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226077?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wewpew_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226719?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wewpew_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369348?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wewpew_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647889?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wewpew_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647892?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "varthr",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "varthr_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226044?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "varthr_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226689?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "varthr_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369318?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "varthr_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647829?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "varthr_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647832?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "buggna",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "buggna_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225834?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "buggna_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226473?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "buggna_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226797?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "buggna_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369108?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "buggna_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647406?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "buggna_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647412?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "dusgro",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "dusgro_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225876?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusgro_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226524?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusgro_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226842?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusgro_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369153?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusgro_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647496?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dusgro_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647499?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "gryjay",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "gryjay_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225900?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryjay_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226545?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryjay_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226863?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryjay_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369174?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryjay_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647538?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "gryjay_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647541?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "wesowl1",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "wesowl1_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226059?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesowl1_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226713?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesowl1_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369342?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesowl1_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647874?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesowl1_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647880?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "bulori",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "bulori_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225837?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bulori_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226476?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bulori_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226800?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bulori_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369117?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bulori_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647409?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bulori_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647415?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "hamfly",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "hamfly_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225909?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hamfly_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226554?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hamfly_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226872?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hamfly_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369183?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hamfly_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647556?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "hamfly_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647559?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "yelwar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "yelwar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226107?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yelwar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226749?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yelwar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369378?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yelwar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647949?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yelwar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647952?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "yebmag",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "yebmag_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226104?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yebmag_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226746?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yebmag_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369375?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yebmag_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647940?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yebmag_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647946?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "btywar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "btywar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225831?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "btywar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226470?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "btywar_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226791?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "btywar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369105?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "btywar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647400?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "btywar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647403?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "whbnut",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "whbnut_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226074?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "whbnut_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226722?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "whbnut_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369351?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "whbnut_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647895?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "whbnut_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647898?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "leafly",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "leafly_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225933?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "leafly_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226575?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "leafly_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226893?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "leafly_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369204?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "leafly_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647598?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "leafly_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647601?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "bkchum",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "bkchum_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225816?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkchum_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226455?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkchum_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226773?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkchum_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369084?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkchum_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647364?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkchum_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647367?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "wilsap",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "wilsap_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226083?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wilsap_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226728?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wilsap_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369357?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wilsap_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647907?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wilsap_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647910?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "rensap",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "rensap_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226005?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rensap_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226650?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rensap_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226971?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rensap_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369279?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rensap_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647751?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "rensap_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647754?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "redcro",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "redcro_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226002?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "redcro_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226647?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "redcro_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226968?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "redcro_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369276?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "redcro_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647745?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "redcro_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647748?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "foxspa",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "foxspa_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225888?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "foxspa_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226533?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "foxspa_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226851?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "foxspa_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369162?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "foxspa_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647514?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "foxspa_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647517?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "coohaw",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "coohaw_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225864?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "coohaw_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226509?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "coohaw_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226827?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "coohaw_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369141?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "coohaw_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647466?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "coohaw_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647469?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "lazbun",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "lazbun_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225927?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lazbun_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226572?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lazbun_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226890?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lazbun_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369201?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lazbun_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647592?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "lazbun_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647595?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "reshaw",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "reshaw_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226011?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "reshaw_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226653?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "reshaw_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226974?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "reshaw_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369282?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "reshaw_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647757?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "reshaw_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647760?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "nutwoo",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "nutwoo_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225960?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nutwoo_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226605?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nutwoo_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226926?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nutwoo_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369234?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nutwoo_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647661?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "nutwoo_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647664?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "daejun",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "daejun_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225870?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "daejun_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226515?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "daejun_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226833?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "daejun_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369144?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "daejun_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647475?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "daejun_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647481?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "stejay",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "stejay_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226035?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "stejay_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226677?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "stejay_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369306?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "stejay_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647802?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "stejay_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647808?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "orcwar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "orcwar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225969?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "orcwar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226614?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "orcwar_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226935?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "orcwar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369243?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "orcwar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647679?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "orcwar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647682?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "yerwar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "yerwar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226110?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yerwar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226752?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yerwar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369381?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yerwar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647955?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "yerwar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647958?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "soogro1",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "soogro1_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226023?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "soogro1_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226668?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "soogro1_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369297?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "soogro1_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647787?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "soogro1_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647793?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "casfin",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "casfin_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225846?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casfin_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226482?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casfin_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226809?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casfin_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369120?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casfin_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647430?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "casfin_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647433?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "pilwoo",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "pilwoo_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225978?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pilwoo_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226620?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pilwoo_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226938?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pilwoo_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369249?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pilwoo_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647691?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pilwoo_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647694?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "wesblu",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "wesblu_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226068?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesblu_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226707?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesblu_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369336?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesblu_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647865?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wesblu_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647868?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "pacwre1",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "pacwre1_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225972?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pacwre1_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226617?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pacwre1_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226941?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pacwre1_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369246?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pacwre1_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647685?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "pacwre1_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647688?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "calhum",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "calhum_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225843?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "calhum_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226485?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "calhum_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226803?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "calhum_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369111?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "calhum_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647424?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "calhum_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647427?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "wooscj2",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "wooscj2_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226092?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wooscj2_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226737?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wooscj2_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369366?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wooscj2_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647925?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "wooscj2_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647928?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "herthr",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "herthr_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225924?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herthr_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226557?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herthr_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226875?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herthr_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369189?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herthr_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647562?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "herthr_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647565?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "bkhgro",
+      "species_name": "Black-headed Grosbeak",
+      "images": [
+        {
+          "file_name": "bkhgro_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225801?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkhgro_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226452?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkhgro_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226776?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkhgro_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369090?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkhgro_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647370?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkhgro_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647373?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "bkbwoo",
+      "species_name": "Black-backed Woodpecker",
+      "images": [
+        {
+          "file_name": "bkbwoo_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225798?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkbwoo_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226446?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkbwoo_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226767?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkbwoo_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369081?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkbwoo_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647352?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bkbwoo_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647355?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "flaowl",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "flaowl_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225885?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "flaowl_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226530?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "flaowl_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226848?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "flaowl_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369159?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "flaowl_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647508?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "flaowl_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647511?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "norgos",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "norgos_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225957?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norgos_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226602?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norgos_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226920?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norgos_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369231?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norgos_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647655?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "norgos_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647658?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "brncre",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "brncre_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225825?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brncre_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226464?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brncre_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226785?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brncre_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369102?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brncre_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647388?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "brncre_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647391?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "bushti",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "bushti_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225840?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bushti_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226479?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bushti_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226806?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bushti_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369114?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bushti_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647418?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "bushti_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647421?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "macwar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "macwar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225939?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "macwar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226584?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "macwar_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226905?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "macwar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369213?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "macwar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647616?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "macwar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647619?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "dowwoo",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "dowwoo_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225873?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dowwoo_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226518?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dowwoo_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226836?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dowwoo_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369147?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dowwoo_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647484?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "dowwoo_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647487?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "oaktit",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "oaktit_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225963?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "oaktit_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226608?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "oaktit_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226932?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "oaktit_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369237?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "oaktit_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647667?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "oaktit_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647670?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "naswar",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "naswar_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58225948?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "naswar_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226593?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "naswar_Variation in time since fire.png",
+          "label": "Variation in time since fire",
+          "url": "https://figshare.com/ndownloader/files/58226911?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "naswar_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369222?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "naswar_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647637?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "naswar_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647640?private_link=92ea9308ff2587864c49"
+        }
+      ]
+    },
+    {
+      "species_code": "spotow",
+      "species_name": "",
+      "images": [
+        {
+          "file_name": "spotow_Percent high severity fire.png",
+          "label": "Percent high severity fire",
+          "url": "https://figshare.com/ndownloader/files/58226029?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "spotow_Variation in fire severity.png",
+          "label": "Variation in fire severity",
+          "url": "https://figshare.com/ndownloader/files/58226674?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "spotow_Percent burned (last 25y).png",
+          "label": "Percent burned (last 25y)",
+          "url": "https://figshare.com/ndownloader/files/58369303?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "spotow_PI_count.png",
+          "label": "PI_count",
+          "url": "https://figshare.com/ndownloader/files/61647799?private_link=92ea9308ff2587864c49"
+        },
+        {
+          "file_name": "spotow_PI_occurrence.png",
+          "label": "PI_occurrence",
+          "url": "https://figshare.com/ndownloader/files/61647805?private_link=92ea9308ff2587864c49"
         }
       ]
     }
