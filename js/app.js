@@ -11,6 +11,51 @@
   // Map variable key (slug) -> human-readable label (long form)
   let variableMap = new Map();
 
+  // Lazy-load queue: cap simultaneous image fetches to avoid WAF rate limiting
+  const MAX_CONCURRENT = 5;
+  let loadQueue = [];
+  let activeLoads = 0;
+  let loadGeneration = 0;
+  let imageObserver = null;
+
+  function drainQueue(gen) {
+    while (activeLoads < MAX_CONCURRENT && loadQueue.length > 0) {
+      const { imageEl, url } = loadQueue.shift();
+      activeLoads++;
+      const onFinish = () => {
+        if (loadGeneration !== gen) return;
+        activeLoads--;
+        drainQueue(gen);
+      };
+      imageEl.addEventListener('load', onFinish, { once: true });
+      imageEl.addEventListener('error', onFinish, { once: true });
+      imageEl.src = url;
+    }
+  }
+
+  function enqueueLoad(imageEl, url) {
+    loadQueue.push({ imageEl, url });
+    drainQueue(loadGeneration);
+  }
+
+  function resetImageLoader() {
+    loadGeneration++;
+    loadQueue = [];
+    activeLoads = 0;
+    if (imageObserver) { imageObserver.disconnect(); imageObserver = null; }
+  }
+
+  function createObserver() {
+    imageObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        imageObserver.unobserve(entry.target);
+        const imageEl = entry.target.querySelector('img[data-src]');
+        if (imageEl) enqueueLoad(imageEl, imageEl.dataset.src);
+      });
+    }, { rootMargin: '300px 0px' });
+  }
+
   function slugVariable(fileName, label){
     // Prefer pattern speciescode_xxx.png -> remove first token (species code) and extension
     if(!fileName) return label ? label.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'') : '';
@@ -78,19 +123,28 @@
   function render(){
     const state = filterState();
     updatePermalink(state);
+    resetImageLoader();
+    createObserver();
     resultsEl.innerHTML = '';
 
     function buildImageBlock(sp, img){
       const block = document.createElement('div');
       block.className='image-block';
       const imageEl = document.createElement('img');
-      imageEl.loading = 'lazy';
-      imageEl.src = img.url;
+      const primaryUrl = img.github_url || img.url;
+      const fallbackUrl = img.github_url ? img.url : null;
+      imageEl.dataset.src = primaryUrl;
       imageEl.alt = `${sp.species_name} — ${img.label}`;
-      imageEl.addEventListener('error', ()=> {
+      let fallbackUsed = false;
+      imageEl.addEventListener('error', () => {
+        if (!fallbackUsed && fallbackUrl) {
+          fallbackUsed = true;
+          imageEl.src = fallbackUrl;
+          return;
+        }
         block.classList.add('load-error');
         block.innerHTML = `<div class="image-error">Failed to load image.<br><a href="${img.url}" target="_blank" rel="noopener">Open directly</a></div>`;
-      }, { once:true });
+      });
       // Maximize on click
       imageEl.style.cursor = 'zoom-in';
       imageEl.addEventListener('click', () => {
@@ -101,6 +155,7 @@
       meta.innerHTML = `<a href="${img.url}" download title="Download PNG">PNG</a>`;
       block.appendChild(imageEl);
       block.appendChild(meta);
+      imageObserver.observe(block);
       return block;
     }
 
