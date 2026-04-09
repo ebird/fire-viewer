@@ -23,7 +23,8 @@
               "properties": {
                 "file_name": {"type": "string", "pattern": ".*\\.png$"},
                 "label": {"type": "string"},
-                "url": {"type": "string", "format": "uri"}
+                "url": {"type": "string", "format": "uri"},
+                "github_url": {"type": "string", "format": "uri"}
               },
               "additionalProperties": false
             }
